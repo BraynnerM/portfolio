@@ -8,7 +8,7 @@ const AboutContainer = () => {
         Além de minha formação acadêmica, atuo como freelancer, desenvolvendo projetos personalizados para clientes. Essa experiência tem me permitido aprimorar minhas habilidades de comunicação, conhecimento técnico e gestão de projetos, ampliando minha capacidade de entregar resultados de qualidade.
         </p>
         <p>
-        Sou um profissional motivado, determinado a enfrentar novos desafios, ávido por aprender e evoluir constantemente. Tenho habilidade para solucionar problemas e estou comprometido em contribuir para entregar as melhores soluções e fazer a diferença, trazendo resultados positivos para a equipe.
+        Motivado e determinado a enfrentar novos desafios, estou sempre ávido por aprender e evoluir constantemente. Tenho habilidade para solucionar problemas e estou comprometido em contribuir para entregar as melhores soluções, fazendo a diferença e trazendo resultados positivos para a equipe.
         </p>
     </section>
 }
