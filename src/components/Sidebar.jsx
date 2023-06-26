@@ -1,7 +1,7 @@
 import SocialNetworks from './SocialNetworks';
 import InformationContainer from './InformationContainer';
 
-import Avatar from '../img/braynner-foto.jpg';
+import Avatar from '../assets/main-img/braynner-foto.jpg';
 
 import '../styles/components/sidebar.sass';
 
