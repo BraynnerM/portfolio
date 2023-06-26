@@ -2,7 +2,7 @@ import '../styles/components/projectscontainer.sass'
 
 
 const projects = [
-    {id: "github.jpg", name: "Busca de Usuários Github", app:"https://braynnerm.github.io/projeto-mundo-real-com-fetch-e-github/", repositorie:"https://github.com/BraynnerM/projeto-mundo-real-com-fetch-e-github", description: "Projeto feito utilizando html, css e javascript, neste projeto é utilizado o metodo fetch para busca em uma api, ao pesquisar um usuário é possivel vermos sua foto, nome de usuário, bio cadastrada, seguidores, dados internos de cada repositorio e alêm disso uma lista com os commits mais recentes."}
+    {id: "github.gif", name: "Busca de Usuários Github", app:"https://braynnerm.github.io/projeto-mundo-real-com-fetch-e-github/", repositorie:"https://github.com/BraynnerM/projeto-mundo-real-com-fetch-e-github", description: "Projeto feito utilizando html, css e javascript, neste projeto é utilizado o metodo fetch para busca em uma api, ao pesquisar um usuário é possivel vermos sua foto, nome de usuário, bio cadastrada, seguidores, dados internos de cada repositorio e alêm disso uma lista com os commits mais recentes."}
 ]
 
 const ProjectsContainer = () => {
