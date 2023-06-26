@@ -14,7 +14,7 @@ const ProjectsContainer = () => {
                     <div className="project-main">
                         <div>
                             <a href={project.app} target="_blank" rel="noopener noreferrer">
-                                <img src={`./public/assets/projects-img/${project.id}`} alt="project-screenshot" />
+                                <img src={`./assets/projects-img/${project.id}`} alt="project-screenshot" />
                             </a>
                         </div>
                         <div className='project-info'>
